@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(26, 43, 60);
+    overflow:hidden
+    
+}
+
+.navbar a {
+    float: left;
+    color: rgb(224,152,135);
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#content {
+    margin: 40px;
+}
+
+#content a {
+    text-decoration: none;
+    font-size: 20px;
+}

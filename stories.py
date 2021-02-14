@@ -43,3 +43,8 @@ story = Story(
     """Once upon a time in a long-ago {place}, there lived a
        large {adjective} {noun}. It loved to {verb} {plural_noun}."""
 )
+
+story_2 = Story(
+    ["place", "noun", "verb", "adjective", "plural_noun"],
+    """Did you know that {plural_noun} who live in {place} are far more {adjective} when they {verb} with a {noun}"""
+)
